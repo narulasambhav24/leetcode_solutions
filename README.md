@@ -14,8 +14,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0013-roman-to-integer) |
+| [0217-contains-duplicate](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0217-contains-duplicate) |
 ## Math
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0013-roman-to-integer) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
