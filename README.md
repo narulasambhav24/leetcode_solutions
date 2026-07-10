@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0283-move-zeroes) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
