@@ -12,7 +12,9 @@ class Solution {
                 prevMaxCount = maxCount;
                 count = 0;
             }
-            maxCount = Math.max(prevMaxCount, maxCount);
+            if(prevMaxCount > maxCount){
+                maxCount = prevMaxCount;
+            }
         }
         return maxCount;
     }
