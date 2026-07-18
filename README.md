@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Math
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Sorting
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0169-majority-element) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 ## Two Pointers
 |  |
 | ------- |
