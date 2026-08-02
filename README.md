@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
+| [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Array
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0053-maximum-subarray) |
+| [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -142,4 +145,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
