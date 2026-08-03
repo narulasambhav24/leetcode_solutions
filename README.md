@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Stack
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
 ## Prefix Sum
 |  |
 | ------- |
