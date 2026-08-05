@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
