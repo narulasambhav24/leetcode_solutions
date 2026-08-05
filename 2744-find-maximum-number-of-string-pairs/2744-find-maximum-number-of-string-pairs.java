@@ -11,7 +11,7 @@ class Solution {
             String reversedS = reverse(s);
             if(set.contains(reversedS)){
                 count++;
-                // set.remove(reversedS);
+                set.remove(reversedS);
             }
             else{
                 set.add(s);
