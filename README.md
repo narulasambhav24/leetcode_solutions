@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Math
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3731-find-missing-elements](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -164,4 +167,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 <!---LeetCode Topics End-->
