@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
+| [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
