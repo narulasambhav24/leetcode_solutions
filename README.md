@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2094-finding-3-digit-even-numbers](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2574-left-and-right-sum-differences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2574-left-and-right-sum-differences) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
 | [2094-finding-3-digit-even-numbers](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 | [3731-find-missing-elements](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3731-find-missing-elements) |
 ## Sliding Window
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Game Theory
 |  |
