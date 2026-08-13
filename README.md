@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2094-finding-3-digit-even-numbers](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2094-finding-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
