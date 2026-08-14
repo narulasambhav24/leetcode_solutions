@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
 ## Stack
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
+| [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
@@ -196,4 +198,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0175-combine-two-tables) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
