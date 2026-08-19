@@ -51,6 +51,7 @@ class Solution {
         }
     }
     public Node copyRandomList(Node head) {
+        //edge case handles empty list
         if(head == null) return null;
         // deep copying the given list
         Node newHead = deepCopy(head);
@@ -66,6 +67,7 @@ class Solution {
         }
         //split the two lists
         splitLists(head, newHead);
+        // return the head of new list
         return newHead;
     }
 }
