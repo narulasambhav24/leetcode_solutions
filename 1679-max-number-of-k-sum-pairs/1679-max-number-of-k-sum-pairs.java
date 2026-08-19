@@ -1,17 +1,22 @@
 class Solution {
     public int maxOperations(int[] nums, int k) {
-        HashMap<Integer, Integer> map = new HashMap<>();
-        int count = 0;
-        for(int num : nums){
-            int comp = k - num;
-            if(map.getOrDefault(comp, 0) > 0){
-                count++;
-                map.put(comp, map.get(comp)-1);
+        int validPair = 0;
+        Arrays.sort(nums);
+        int left = 0, right = nums.length - 1;
+        while(left < right){
+            int currSum = nums[left] + nums[right];
+            if(currSum == k){
+                validPair++;
+                left++;
+                right--;
+            }
+            else if(currSum < k){
+                left++;
             }
             else{
-                map.put(num, map.getOrDefault(num, 0) + 1);
+                right--;
             }
         }
-        return count;
+        return validPair;
     }
 }
