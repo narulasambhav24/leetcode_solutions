@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
 | [0459-repeated-substring-pattern](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0459-repeated-substring-pattern) |
+| [0925-long-pressed-name](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0443-string-compression) |
+| [0925-long-pressed-name](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0925-long-pressed-name) |
 ## Prefix Sum
 |  |
 | ------- |
