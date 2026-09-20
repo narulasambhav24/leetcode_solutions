@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1957-delete-characters-to-make-fancy-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2744-find-maximum-number-of-string-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2744-find-maximum-number-of-string-pairs) |
+| [3498-reverse-degree-of-a-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Recursion
 |  |
 | ------- |
