@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0925-long-pressed-name) |
 | [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1957-delete-characters-to-make-fancy-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
 |  |
 | ------- |
