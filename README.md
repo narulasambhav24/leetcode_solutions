@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 ## Hash Table
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
+| [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Counting
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
+| [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Binary Search
 |  |
 | ------- |
@@ -257,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0169-majority-element) |
+## Data Stream
+|  |
+| ------- |
+| [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 <!---LeetCode Topics End-->
