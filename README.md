@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
 | [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
+| [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
 |  |
@@ -185,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
 | [1480-running-sum-of-1d-array](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1732-find-the-highest-altitude](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1732-find-the-highest-altitude) |
@@ -203,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
+| [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [2389-longest-subsequence-with-limited-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/2389-longest-subsequence-with-limited-sum) |
 ## Bit Manipulation
 |  |
