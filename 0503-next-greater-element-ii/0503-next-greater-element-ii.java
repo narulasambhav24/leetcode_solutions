@@ -1,33 +1,27 @@
 class Solution {
-    public int[] helper(int[] arr){
-        int len = arr.length;
-        int[] nge = new int[len];
+    public int[] nextGreaterElements(int[] nums) {
+        int n = nums.length;
+        int[] res = new int[n];
+        int[] arr = new int[n*2];
+        for(int i = 0; i < n; i++){
+            arr[i] = nums[i];
+        }
+        for(int j = 0; j < n; j++){
+            arr[j+n] = nums[j];
+        }
         Stack<Integer> st = new Stack<>();
-        for(int i = len - 1; i >= 0; i--){
+        for(int i = arr.length-1; i>=0; i--){
             int ele = arr[i];
             while(!st.isEmpty() && st.peek() <= ele){
                 st.pop();
             }
-            if(st.isEmpty()) nge[i] = -1;
-            else nge[i] = st.peek();
-            st.push(arr[i]);
-        }
-        return nge;
-    }
-    public int[] nextGreaterElements(int[] nums) {
-        int len = nums.length;
-        int newLength = nums.length*2;
-        int[] temp = new int[newLength];
-        for(int i = 0; i < len; i++){
-            temp[i] = nums[i];
-        }
-        for(int i = 0; i < len; i++){
-            temp[i+len] = nums[i];
-        }
-        int[] nge = helper(temp);
-        int[] res = new int[len];
-        for(int i = 0; i < len; i++){
-            res[i] = nge[i];
+            if(st.isEmpty()){
+                res[i%n] = -1;
+            }
+            else{
+                res[i%n] = st.peek();
+            }
+            st.push(ele);
         }
         return res;
     }
