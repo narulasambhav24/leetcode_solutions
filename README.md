@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0303-range-sum-query-immutable) |
 | [0485-max-consecutive-ones](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0503-next-greater-element-ii) |
 | [0901-online-stock-span](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0901-online-stock-span) |
 ## Counting
