@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0268-missing-number) |
 | [0496-next-greater-element-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0904-fruit-into-baskets](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1497-check-if-array-pairs-are-divisible-by-k](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1497-check-if-array-pairs-are-divisible-by-k) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0877-stone-game) |
+| [0904-fruit-into-baskets](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [0944-delete-columns-to-make-sorted](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0944-delete-columns-to-make-sorted) |
 | [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1109-corporate-flight-bookings](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1109-corporate-flight-bookings) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/narulasambhav24/leetcode_solutions/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 ## Divide and Conquer
