@@ -306,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -314,5 +315,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0112-path-sum) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0703-kth-largest-element-in-a-stream) |
+## Depth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0112-path-sum) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0112-path-sum](https://github.com/narulasambhav24/leetcode_solutions/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
